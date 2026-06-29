@@ -14,17 +14,6 @@ The main objective of the project is to support early Alzheimer’s risk screeni
 - select the best-performing model for deployment
 - provide a clear risk score and risk category for interpretation
 
-## My Role
-My role in this project included:
-
-- exploratory data analysis
-- data preprocessing and feature engineering
-- risk score calculation logic
-- model training and comparison
-- evaluation of model performance metrics
-- integration of the prediction model with the web application
-- building the user-facing assessment flow
-
 ## Technologies Used
 
 ### Frontend
@@ -117,7 +106,6 @@ The project produced a working prediction pipeline with clear outputs, performan
 - `api/python/` - Python prediction script and dependencies
 - `notebooks/` - EDA, preprocessing, and model training notebooks
 - `outputs/` - Saved model artifacts, metrics, reports, and prediction files
-- `scripts/` - Utility scripts used during preprocessing and training
 
 ## Setup
 
