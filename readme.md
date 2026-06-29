@@ -114,6 +114,12 @@ The project produced a working prediction pipeline with clear outputs, performan
 npm install
 npm run dev
 ```
+<img width="1367" height="952" alt="image" src="https://github.com/user-attachments/assets/1d612dbc-13f7-4718-8ea3-8dc9473de8c0" />
+<img width="1211" height="875" alt="image" src="https://github.com/user-attachments/assets/228ff92b-3192-4f72-91bc-aa12dcb3b3f5" />
+<img width="1163" height="987" alt="image" src="https://github.com/user-attachments/assets/d91e5d1c-b764-4f3e-a198-c8e2414108be" />
+<img width="1193" height="707" alt="image" src="https://github.com/user-attachments/assets/59449c75-ebeb-46a6-a4ab-2b31c9370950" />
+<img width="1191" height="990" alt="image" src="https://github.com/user-attachments/assets/dbc7b486-6953-4f63-916a-c67d85bc9393" />
+<img width="1196" height="817" alt="image" src="https://github.com/user-attachments/assets/0fb95b5d-7533-4710-8312-77fe61427422" />
 
 ### Python Environment
 ```bash
@@ -122,3 +128,4 @@ pip install -r requirements.txt
 
 ## Disclaimer
 This project is intended for educational and research purposes only. It should not replace professional medical advice, diagnosis, or treatment. Any clinical use should be reviewed by qualified healthcare professionals.
+
